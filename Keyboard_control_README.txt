@@ -8,7 +8,8 @@ INSTALL GUIDE:
 
 START IT:
 Double-click KeyGerman.exe
-That's it!
+Note: Windows may automatically protect your PC, please press "run anyway".
+That's it! 
 On the bottom right of your screen, an icon will appear that shows the program is running.
 ----------------------------
 
