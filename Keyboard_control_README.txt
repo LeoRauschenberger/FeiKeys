@@ -40,6 +40,8 @@ Type Euro for €
 Type degree for °
 Caps lock is always OFF
 
-Note:
+--------------------------------------
+SUSPEND:
+The script can be suspended and unsuspended using the F12-Key. 
+When suspended the Script-Icon changes to an "S".
 
-To write "Messschieber" write "ss s" and then delete the space to avoid triggering a "ß"
