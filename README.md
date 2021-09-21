@@ -26,16 +26,16 @@ The script can be suspended and unsuspended using the F12-Key.
 When suspended the Script-Icon changes to an "S".
 <hr>
 USE THE SCRIPT:
-Press a, o, u, s three times in a row and you will receive ä, ö, ü, ß
-Press e, c three times in a row and you will receive ë, ç
-Type a\, e\, u\ for à, è, ù
-Type a^, e^, i^, o^, u^ for â, ê, î, ô, û
-Type e/ for é
-Type ooee for œ
+Press a, o, u, s three times in a row and you will receive ä, ö, ü, ß <br>
+Press e, c three times in a row and you will receive ë, ç <br>
+Type a\, e\, u\ for à, è, ù <br>
+Type a^, e^, i^, o^, u^ for â, ê, î, ô, û <br>
+Type e/ for é <br>
+Type ooee for œ <br>
 
 Besides, the script does the following:
 
-Type mfg for Mit freundlichen Grüßen
-Type Euro for €
-Type degree for °
-Caps lock is always OFF
+Type mfg for Mit freundlichen Grüßen <br>
+Type Euro for € <br>
+Type degree for ° <br>
+Caps lock is always OFF <br>
