@@ -36,11 +36,11 @@ USE THE SCRIPT:
 
 
 German Keys: <br>
-Press a, o, u, s three times in a row and you will receive ä, ö, ü, ß <br>
-Press e, c three times in a row and you will receive ë, ç <br>
+Type aaa, ooo, uuu, sss for ä, ö, ü, ß <br>
 
 
 French Keys: <br>
+Type eee, ccc for ë, ç <br>
 Type a\, e\, u\ for à, è, ù <br>
 Type a^, e^, i^, o^, u^ for â, ê, î, ô, û <br>
 Type e/ for é <br>
@@ -48,7 +48,7 @@ Type ooee for œ <br>
 
 Besides, the script does the following:
 
-Type mfg for Mit freundlichen Grüßen <br>
+Type mfg for "Mit freundlichen Grüßen" <br>
 Type Euro for € <br>
 Type degree for ° <br>
 Caps lock is always OFF <br>
