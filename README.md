@@ -13,7 +13,6 @@ START THE SCRIPT:
 
 Double-click KeyGerman.exe
 
-
 On the bottom right of your screen, an icon will appear that shows the program is running.
 <hr>
 START THE SCRIPT AUTOMATICALLY WHEN TURNING ON COMPUTER:
@@ -35,8 +34,12 @@ When suspended the Script-Icon changes to an "S".
 <hr>
 USE THE SCRIPT:
 
+
+German Keys: <br>
 Press a, o, u, s three times in a row and you will receive ä, ö, ü, ß <br>
 Press e, c three times in a row and you will receive ë, ç <br>
+
+French Keys: <br>
 Type a\, e\, u\ for à, è, ù <br>
 Type a^, e^, i^, o^, u^ for â, ê, î, ô, û <br>
 Type e/ for é <br>
