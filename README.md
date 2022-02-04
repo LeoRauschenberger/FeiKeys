@@ -5,12 +5,15 @@ INSTALL GUIDE:
 
 1. Download and install the AutoHotkey software ( Download-Link: https://www.autohotkey.com/download/ )
 2. Place KeyGerman.exe on your Desktop (or any other folder)
+
+Note: Windows or your browser may automatically protect your PC, please press "run anyway", or "keep anyway".
+
 ----------------------------
 START THE SCRIPT:
 
 Double-click KeyGerman.exe
-Note: Windows may automatically protect your PC, please press "run anyway".
-That's it! 
+
+
 On the bottom right of your screen, an icon will appear that shows the program is running.
 <hr>
 START THE SCRIPT AUTOMATICALLY WHEN TURNING ON COMPUTER:
