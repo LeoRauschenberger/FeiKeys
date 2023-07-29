@@ -15,7 +15,7 @@ Double-click KeyGerman.exe
 
 On the bottom right of your screen, an icon will appear that shows the program is running.
 <hr>
-START THE SCRIPT AUTOMATICALLY WHEN TURNING ON COMPUTER:
+<b>START THE SCRIPT AUTOMATICALLY WHEN TURNING ON COMPUTER:</b>b>
 
 Push the "Windows"-key and the letter "r" on your keyboard
 Enter "shell:startup"
