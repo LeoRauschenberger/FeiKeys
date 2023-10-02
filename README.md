@@ -34,21 +34,31 @@ When suspended the Script-Icon changes to an "S".
 <hr>
 <b>USE THE SCRIPT:</b>
 
-
 German Keys: <br>
-Type aaa, ooo, uuu, sss for ä, ö, ü, ß <br>
-
+| Type in | Conversion |
+|:--------:|:-----------:|
+| aaa | ä |
+| ooo | ö |
+| uuu | ü |
+| sss | ß |
 
 French Keys: <br>
-Type eee, ccc for ë, ç <br>
-Type a\, e\, u\ for à, è, ù <br>
-Type a^, e^, i^, o^, u^ for â, ê, î, ô, û <br>
-Type e/ for é <br>
-Type ooee for œ <br>
+| Type in | Conversion |
+|:--------:|:-----------:|
+| eee | ë |
+| ccc | ç |
+| a\, e\, u\ | à, è, ù |
+| a^, e^, i^, o^, u^ | â, ê, î, ô, û |
+| e/ | é |
+| ooee | œ |
 
 Besides, the script does the following:
+| Type in | Conversion |
+|:--------:|:-----------:|
+| eee | ë |
 
-Type mfg for "Mit freundlichen Grüßen" <br>
-Type Euro for € <br>
-Type degree for ° <br>
+| mfg | "Mit freundlichen Grüßen" |
+| Euro | € |
+| degree | ° |
+
 Caps lock is always OFF <br>
