@@ -56,7 +56,6 @@ Besides, the script does the following:
 | Type in | Conversion |
 |:--------:|:-----------:|
 | eee | ë |
-
 | mfg | "Mit freundlichen Grüßen" |
 | Euro | € |
 | degree | ° |
